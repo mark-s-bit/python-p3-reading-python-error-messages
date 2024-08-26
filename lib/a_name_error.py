@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
+def hello_world():
 
-print(hello_world)
+    print(hello_world)
+hello_world()
